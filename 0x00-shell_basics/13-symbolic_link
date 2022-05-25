@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir _ls_ /bin/ls
